@@ -1,2 +1,2 @@
 # prophet-test
-Just a playground for prophet testing.
+Just a playground for prophet testing
