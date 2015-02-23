@@ -1,5 +1,5 @@
 describe "Something" do
   it "works" do
-    expect(2+2).to eq(5)
+    expect(2+3).to eq(5)
   end
 end
